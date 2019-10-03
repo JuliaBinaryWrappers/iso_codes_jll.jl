@@ -1,6 +1,6 @@
 name = "iso_codes_jll"
 uuid = "bf975903-5238-5d20-8243-bc370bc1e7e5"
-version = "4.3.0+0"
+version = "4.3.0+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"

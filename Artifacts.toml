@@ -1,6 +1,6 @@
 [iso_codes]
-git-tree-sha1 = "71f68a3d55d73f2e15a3969c241fae2349b1feb5"
+git-tree-sha1 = "695a3abd0af051dab62687501b9a61ad91c831a3"
 
     [[iso_codes.download]]
-    sha256 = "a27ef364abdfad2d051ddbb5458b1ef7b9290cc429e54c2509f2d4afc3651a19"
-    url = "https://github.com/JuliaBinaryWrappers/iso_codes_jll.jl/releases/download/iso_codes-v4.11.0+0/iso_codes.v4.11.0.any.tar.gz"
+    sha256 = "50fc043881557667ea5c970358485aa7cef604d808542547d51a305944ca2bcc"
+    url = "https://github.com/JuliaBinaryWrappers/iso_codes_jll.jl/releases/download/iso_codes-v4.15.0+0/iso_codes.v4.15.0.any.tar.gz"

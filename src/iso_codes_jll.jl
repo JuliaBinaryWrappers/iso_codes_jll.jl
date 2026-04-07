@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("iso_codes")
-JLLWrappers.@generate_main_file("iso_codes", UUID("bf975903-5238-5d20-8243-bc370bc1e7e5"))
+JLLWrappers.@generate_main_file("iso_codes", Base.UUID("bf975903-5238-5d20-8243-bc370bc1e7e5"))
 end  # module iso_codes_jll
